@@ -629,7 +629,7 @@ function HomePage() {
               <h4>Quick Links</h4>
               <ul className="footer-nav">
                 <li>
-                  <motion.div whileHover={{ scale: 1.2 }}>
+                  <motion.div>
                     <a
                       href="#"
                       onClick={() => scrollToSection("#hero-section")}
@@ -639,7 +639,7 @@ function HomePage() {
                   </motion.div>
                 </li>
                 <li>
-                  <motion.div whileHover={{ scale: 1.2 }}>
+                  <motion.div>
                     <a
                       href="#about-us-section"
                       onClick={() => scrollToSection("#about-us-section")}
@@ -649,7 +649,7 @@ function HomePage() {
                   </motion.div>
                 </li>
                 <li>
-                  <motion.div whileHover={{ scale: 1.2 }}>
+                  <motion.div>
                     <a
                       href="#get-involved-section"
                       onClick={() => scrollToSection("#get-involved-section")}
@@ -659,7 +659,7 @@ function HomePage() {
                   </motion.div>
                 </li>
                 <li>
-                  <motion.div whileHover={{ scale: 1.2 }}>
+                  <motion.div>
                     <a
                       href="#contact-section"
                       onClick={() => scrollToSection("#contact-section")}

@@ -474,7 +474,7 @@ function HomePage() {
             >
               Ready to volunteer? Sign up today using our{" "}
               <a
-                href="https://www.signupgenius.com"
+                href="https://www.signupgenius.com/go/10C084CAAAF28AAFD0-volunteering1#/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-primary"

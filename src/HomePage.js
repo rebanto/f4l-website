@@ -682,6 +682,30 @@ function HomePage() {
               </a>
             </div>
           </div>
+          {/* Enhanced special mention at the bottom */}
+          <div
+            style={{
+              textAlign: "center",
+              marginTop: "32px",
+              marginBottom: "8px",
+              fontSize: "1.08rem",
+              color: "#ff7f0e",
+              display: "inline-block",
+              background: "none",
+              borderRadius: "8px",
+              padding: "0 18px",
+              letterSpacing: "0.5px",
+              fontWeight: 600,
+              boxShadow: "none",
+              border: "2px solid #ff7f0e",
+              position: "relative",
+              left: "50%",
+              transform: "translateX(-50%)",
+            }}
+          >
+            Website by{" "}
+            <strong style={{ color: "white" }}>Phoenix Tech Solutions</strong>
+          </div>
         </div>
       </footer>
     </div>
